@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+good night
 hello 
 good morning....
-=======
 hiiii 
->>>>>>> 5a44d52163ba9fd4158a192fd597faecba9db351
